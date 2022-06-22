@@ -1,8 +1,8 @@
 {
-  "name": "Queen Bixby-MD",
-  "description": "WhatsApp MD bot build with nodejs",
+  "name": "ＡＦＹＯＯＮ　あ異の",
+  "description": "Whatsapp MD Bot",
   "repository": "https://github.com/darkalphaxteam/Queen-Bixby-MD",
-  "logo": "https://i.ibb.co/PcQYF7c/djt.jpg",
+  "logo": "https://i.ibb.co/K9TB1DL/Add-Text-06-20-09-14-20.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {

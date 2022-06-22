@@ -20,16 +20,16 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['6282888139']
-global.premium = ['6282888139']
-global.ownernomer = '6282888139'
-global.ownername = 'Afyoon'
+global.premium = ['916282888139']
+global.ownernomer = '916282888139'
+global.ownername = 'ＡＦＹＯＯＮ　あ異の'
 global.botname = 'ＡＦＹＯＯＮ　あ異の'
 global.footer = ' ＡＦＹＯＯＮ　あ異の '
-global.ig = 'https://github.com/darkalphaxteam'
+global.ig = ''
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
+global.sc = ''
+global.myweb = ''
+global.packname = 'ＡＦＹＯＯＮ　あ異の'
 global.author = 'Thinura '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
